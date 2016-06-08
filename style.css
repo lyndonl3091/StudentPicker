@@ -1,0 +1,31 @@
+body {
+  background-image: url("http://i.imgur.com/UrJX6Yq.jpg");
+  color: #FFFFFF;
+  margin: 50px;
+  text-align: center;
+}
+
+.Output {
+  background: #989898;
+  color: #000000 ;
+  font-weight: italic;
+  font-size: 25px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.randomPick {
+  font-weight: bold;
+  font-size: 30px
+}
+
+.teamsList {
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
